@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "novacars/speedgun_newtex"
+	$bumpmap	"novacars/speedgun_newtex_bump"
+
+}

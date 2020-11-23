@@ -1,0 +1,5 @@
+Novacars now has dynamic vehicle table saving/loading!
+this means that scripting new vehicles now takes about 30 seconds but it also means that there is 1 extra install step required
+see that folder called "PLACE THIS IN GARRYSMOD DATA FOLDER"? you should probably do what it says
+the final filepath should look like steamapps/common/Garrysmod/garrysmod/data/novacars/vdata.dat
+if you don't put this file in then novacars will tell you about it quite loudly and aggressively before promptly refusing to work
